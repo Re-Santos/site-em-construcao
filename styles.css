@@ -1,5 +1,26 @@
-body h1 {
+
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlelzj1c8GyYC2E-7TIkBJXKZFwA8FZ3aHvw&usqp=CAU) ;
+
+}
+
+.container{
+    display: block;
+    background-color: aliceblue;
+    display:inline-block;
+    
+}
+h1 {
     text-align: center;
 }
+
+h3{
+    text-align: center;
+}
+.img {
+    
+}
+
+
 
 
