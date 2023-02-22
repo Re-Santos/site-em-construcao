@@ -1,26 +1,65 @@
 
 body{
     background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlelzj1c8GyYC2E-7TIkBJXKZFwA8FZ3aHvw&usqp=CAU) ;
-
+    
 }
 
 .container{
-    display: block;
-    background-color: aliceblue;
-    display:inline-block;
     
+    
+    display:inline-block;
+    margin-left: 100px;
+    margin-top: 200px;
+    background-color: aliceblue;
+    padding-right:10vh;
+   padding-top: 25vh;
+   padding-right: 10vh;
+   padding-left: 5vh;
+   padding-bottom: 10vh;
+   
+    
+            
 }
+
 h1 {
     text-align: center;
+    margin-left: 350px;
+    margin-top: 80px;
+    font-size: 50px;
+    
+        
 }
 
 h3{
     text-align: center;
-}
-.img {
+    margin-left: 350px;
+    justify-content: center;
+    align-items: center;
     
 }
 
+button{
+    width: 300px;
+    height: 40px;
+    font: bold 1.5rem serif;
+    background: pink
+    color: black
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 350px;
+    
+}
+
+.minhadiv{
+    
+    background-color: aliceblue;
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+  
+      
+}
 
 
 
