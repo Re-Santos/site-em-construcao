@@ -13,9 +13,9 @@ body{
 .capa div{
     display: inline-block;
     height: 650px;
-    padding-top: 5%;
+    padding-top: 0;
     margin-top: 10%;
-                      
+    align-items: center;
 }
 
 .conteudo {
@@ -23,32 +23,49 @@ body{
     text-align: center;
     background-color: green;
     vertical-align:top ;
-    width: 30%;
-    text-align: center;
+    width: 38%;
     margin-left: 300px;
-        
+    font-family:Josefin Sans ;
+            
 }
 
 .conteudo h1{
-    font-size: 40px;
-    margin-top: 100px;
+    font-size: 56px;
+    margin-top: 130px;
+    text-align: left;
+    line-height: 64px;
+    margin-left: 100px;
+    font-weight: 400;
+    letter-spacing: 16px;
+
+}
+
+.conteudo span{
+    color:#ff9999;
+    display: block;
+    font-weight: 200;
+    letter-spacing: 16px;
 }
 
 .conteudo h3{
-    font-size: 20px;
-    margin-top: 70px;
-    margin-bottom: -50px;
+    font-size: 16px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    text-align: left;
+    margin-left: 100px;
+    font-weight: 400;
 }      
         
 .input {
-    font-size: 15px;
-   
-       }
+
+           
+    }
 
 .foto {
     
     background-color: yellow;
-    width: 40%;
+    width: 30%;
+    
              
 }
 
