@@ -1,0 +1,73 @@
+html,body{
+    margin:0;
+    padding: 0;
+    font-size: 0;
+   
+    
+}
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlelzj1c8GyYC2E-7TIkBJXKZFwA8FZ3aHvw&usqp=CAU) ;
+
+}
+
+.capa div{
+    display: inline-block;
+    height: 650px;
+    padding-top: 0;
+    margin-top: 10%;
+    align-items: center;
+}
+
+.conteudo {
+    
+    text-align: center;
+    background-color: green;
+    vertical-align:top ;
+    width: 38%;
+    margin-left: 300px;
+    font-family:Josefin Sans ;
+            
+}
+
+.conteudo h1{
+    font-size: 56px;
+    margin-top: 130px;
+    text-align: left;
+    line-height: 64px;
+    margin-left: 100px;
+    font-weight: 400;
+    letter-spacing: 16px;
+
+}
+
+.conteudo span{
+    color:#ff9999;
+    display: block;
+    font-weight: 200;
+    letter-spacing: 16px;
+}
+
+.conteudo h3{
+    font-size: 16px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    text-align: left;
+    margin-left: 100px;
+    font-weight: 400;
+}      
+        
+.input {
+
+           
+    }
+
+.foto {
+    
+    background-color: yellow;
+    width: 30%;
+    
+             
+}
+
+
+
